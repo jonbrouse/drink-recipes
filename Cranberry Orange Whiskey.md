@@ -1,6 +1,7 @@
+---
 Seasons: fall, winter
 Temperature: cold
----------
+---
 # Cranberry Orange Whiskey Cocktail
 
 1. Add the following to a shaker and shake:
