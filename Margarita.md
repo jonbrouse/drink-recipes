@@ -1,3 +1,8 @@
+---
+Season: spring, summer
+Temperature: cold
+---
+
 # Margarita
 
 1. Salt rim of Markgarita glass (or pint glass)
