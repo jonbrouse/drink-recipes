@@ -4,7 +4,12 @@
 
 ![Spirit Glasses](spirits.png)
 
+
 • Shot Glass — It’s found in most bars across the U.S. and holds one-and-a-half fluid ounces.
+
+
+
+
 • Shooter — Perfect for layered shots like the B-52, brain hemorrhage, kamikaze, and lemon drop, the shooter is typically about a double portion of a shot glass.
 • Cordial — Ideal for after-dinner liqueurs and small cocktails, a cordial is a stemmed glass that’s usually between one and one and a half ounces.
 • Snifter — The snifter, balloon, or brandy bowl is a wide-rimmed, stout glass that’s among the best drinking glasses for brandies, cognacs, and after-dinner drinks. It’s also become popular for drinking IPAs. If you’re trying to reduce the number of types of glasses in your cabinet, having a few of these glasses on hand is probably a good idea.
