@@ -1,6 +1,6 @@
 ---
 Season: Winter
-Temperature: cold, warm
+Temperature: cold
 ---
 
 # Pink Peppermint Cocktail 
