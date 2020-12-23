@@ -1,5 +1,5 @@
 ---
-Season: Spring, Summer, Fall
+Season: spring, summer, fall
 Temperature: cold
 House Favorite: True
 ---
