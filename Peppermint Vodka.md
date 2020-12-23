@@ -1,7 +1,7 @@
 # Peppermint Vodka
 
-12 full-sized candy canes
-1  750 ml  bottle vodka
+- 12 full-sized candy canes
+- 1  750 ml  bottle vodka
 
 
 1. Using a food processor or coffee grinder, pulse 12 full sized candy canes to fine powder. 
