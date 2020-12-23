@@ -21,17 +21,17 @@
 
 ![Spirit Glasses](spirits.png)
 
-- Shot Glass — It’s found in most bars across the U.S. and holds one-and-a-half fluid ounces.
-- Shooter — Perfect for layered shots like the B-52, brain hemorrhage, kamikaze, and lemon drop, the shooter is typically about a double portion of a shot glass.
-- Cordial — Ideal for after-dinner liqueurs and small cocktails, a cordial is a stemmed glass that’s usually between one and one and a half ounces.
-- Snifter — The snifter, balloon, or brandy bowl is a wide-rimmed, stout glass that’s among the best drinking glasses for brandies, cognacs, and after-dinner drinks. It’s also become popular for drinking IPAs. If you’re trying to reduce the number of types of glasses in your cabinet, having a few of these glasses on hand is probably a good idea.
-- Single Rocks — Often, bartenders will pour out a single on the rocks in an old-fashioned glass, but technically, the old-fashioned is for a double portion, and some bars have separate glasses for singles.
-- NEAT Glass — A recently designed invention, this strangely shaped glass is meant to choke out the “nose-numbing ethanol” and reveal the more complex aromas of plain spirits like whiskey and bourbons.
-- Wobble Glass — A fun and fashionable new style of unique drinking glasses, the wobbling glasses are “un-spillable” and feature a convex bottom that rolls the alcohol around inside.
-- Absinthe Glass — A once-obscure drink that resurfaced in popularity after re-legalization, absinthe has its own glass and typically comes with a slotted spoon, among other accouterments.
-- Grappa Glass — For wines made from leftover skins, pulps, and seeds, this glass is meant to trap the beverage and create a long “aroma chimney.”
-- Glencairn Whisky Glass — A relatively new invention, this Scottish-made glass developed by Glencairn Crystal Ltd. is specifically designed for sipping Scotch whiskey.
-- Ochoko — Sake is traditionally poured out of a flask called a tokkuri into small cups, which are either ochoko (the common type of cups Westerners see), sakazuki (which are like saucers), or masu (which are wooden boxes).
+- __Shot Glass__ - It’s found in most bars across the U.S. and holds one-and-a-half fluid ounces.
+- __Shooter__ - Perfect for layered shots like the B-52, brain hemorrhage, kamikaze, and lemon drop, the shooter is typically about a double portion of a shot glass.
+- __Cordial__ - Ideal for after-dinner liqueurs and small cocktails, a cordial is a stemmed glass that’s usually between one and one and a half ounces.
+- __Snifter__ - The snifter, balloon, or brandy bowl is a wide-rimmed, stout glass that’s among the best drinking glasses for brandies, cognacs, and after-dinner drinks. It’s also become popular for drinking IPAs. If you’re trying to reduce the number of types of glasses in your cabinet, having a few of these glasses on hand is probably a good idea.
+- __Single Rocks__ - Often, bartenders will pour out a single on the rocks in an old-fashioned glass, but technically, the old-fashioned is for a double portion, and some bars have separate glasses for singles.
+- __NEAT Glass__ - A recently designed invention, this strangely shaped glass is meant to choke out the “nose-numbing ethanol” and reveal the more complex aromas of plain spirits like whiskey and bourbons.
+- __Wobble Glass__ - A fun and fashionable new style of unique drinking glasses, the wobbling glasses are “un-spillable” and feature a convex bottom that rolls the alcohol around inside.
+- __Absinthe Glass__ - A once-obscure drink that resurfaced in popularity after re-legalization, absinthe has its own glass and typically comes with a slotted spoon, among other accouterments.
+- __Grappa Glass__ - For wines made from leftover skins, pulps, and seeds, this glass is meant to trap the beverage and create a long “aroma chimney.”
+- __Glencairn Whisky Glass__ - A relatively new invention, this Scottish-made glass developed by Glencairn Crystal Ltd. is specifically designed for sipping Scotch whiskey.
+- __Ochoko__ - Sake is traditionally poured out of a flask called a tokkuri into small cups, which are either ochoko (the common type of cups Westerners see), sakazuki (which are like saucers), or masu (which are wooden boxes).
 
 
 ## Cocktail Glasses 
