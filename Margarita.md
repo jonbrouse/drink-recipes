@@ -1,7 +1,7 @@
 ---
 Season: spring, summer
 Temperature: cold
-t House Favorite: True
+House Favorite: True
 ---
 
 # Margarita
