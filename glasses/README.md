@@ -1,9 +1,25 @@
 # Drink Glasses
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Spirit Glasses](#spirit-glasses)
+- [Cocktail Glasses](#cocktail-glasses)
+- [Wine Glasses](#wine-glasses)
+  - [Red Wine Glasses](#red-wine-glasses)
+  - [White Wine Glasses](#white-wine-glasses)
+  - [Pink Wine Glasses](#pink-wine-glasses)
+  - [Dessert Wine Glasses](#dessert-wine-glasses)
+- [Beer Glasses](#beer-glasses)
+  - [Beer Pint Glasses](#beer-pint-glasses)
+  - [Craft Beer Glasses](#craft-beer-glasses)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ## Spirit Glasses
 
 ![Spirit Glasses](spirits.png)
-
 
 - Shot Glass — It’s found in most bars across the U.S. and holds one-and-a-half fluid ounces.
 - Shooter — Perfect for layered shots like the B-52, brain hemorrhage, kamikaze, and lemon drop, the shooter is typically about a double portion of a shot glass.
@@ -41,3 +57,73 @@
 - Julep Cup — The mint julep has a [long and proud history](https://www.theatlantic.com/national/archive/2014/05/the-history-of-the-mint-julep/361659/) and is typically downed from a pewter or sterling silver cup.
 - Tiki Glass — After World War II, Polynesian-style drinks spiked in popularity, and they’ve experienced a recent renaissance.
 - Fountain Glass — This glass is perfect for a variety of boozy ice cream floats.
+
+
+## Wine Glasses
+
+![Wine Glasses](wine.png)
+
+### Red Wine Glasses
+
+The big difference between red and white wine glasses is that red wine glasses are typically larger and fatter, allowing for more air to come into contact with the wine. This helps the wine oxidize and releases new aromas and keep the wine the desired temperature.
+
+- Burgundy — This big wine glass has a wide bowl for taking in more complex aromas in delicate red wines and a thin lip for bringing the wine more toward the tip of the tongue. It’s a great choice for Burgundies, pinot noirs, and any delicate red wines.
+- Large Bordeaux — This taller, thinner glass splashes the wine to the back of the mouth, and it’s intended for full-bodied, heavy red wines like sirahs and malbecs.
+- Cabernet — This tall wine glass directs the wine to the center of the tongue, which helps to moderate the acidity of heavy wines like cabernet sauvignon.
+- Zinfandel — Spicy, peppery wines do well in this container, which is shaped closer to the “standard” red wine glass and features a wide, thin rim.
+- Pinot Noir — A wine glass that tapers at at the top, this is to make sure that the wine comes into contact with more air, which is perfect for lighter, less “meaty” red wines.
+
+### White Wine Glasses
+
+Red wines are served at room temperature, and white wines are served chilled. This means there are fairly significant differences in the design of red vs. white wine glasses, as white wine needs to come into contact with some, but not too much, room-temperature air. The different wine glasses for white wines are typically made of thicker glass than their red counterparts, in part to help ensure that the temperature stays cold.
+
+• Chardonnay — Spicier, nuttier white wines need more surface area to bloom. The straighter glass sends the wine to the sides of the tongue.
+• Viognier — The viognier is considered somewhat of a standard for white wine glasses, with the U-shape enhancing pretty much everything light and fruity and keeping the beverage cold.
+• Tulip — The flute and tulip are special glasses meant for sparkling wines. The tulip is generally preferred for wines that have been fermented in the bottle, as, again, more surface area gives more room for oxygen and exciting aromas.
+• Flute — The instantly recognizable flute is perfect for bubbling wines like Astis, Champagne, and more.
+• Vintage — For those who prefer a bit more of a retro-style look while they’re drinking sparkling wine, the vintage, or coupe, has made a comeback. The coupe is very versatile, as it’s also often used for chic cocktails. (See the cocktail section.)
+• Hock — At one time, these small crystal wine cups were hugely popular and preferred for sweet German white wines.
+ 
+### Pink Wine Glasses
+
+- Rose — Rosé should be served cold, and as such, this glass has a long stem to prevent warming. It also has a flared lip for directing the tart wine to the tip of the tongue, enhancing sweetness and minimizing any acidic aftertaste.
+
+### Dessert Wine Glasses
+
+- Sauternes — This shape is designed for barrel-aged sweet wines in a way that brings complex acidities to the forefront. It’s perfect for dessert wines like ausbruch, Sauternes, and Monbazillac.
+- Port — With a smaller portion and a nice, sloped lip that brings the sweet flavors to the front of the tongue, this is the perfect glass for fans of dessert wine.
+- Sherry — Small portions of cold sherry can be poured into these simple glasses.
+
+## Beer Glasses
+
+![Beer Glasses](beer.png)
+
+As there are many different kinds of beer, there are many different types of glasses for beer. With glasses shaped for specifically stouts, IPAs, lagers, and pilsners, beer glasses can sometimes be just as confusing as wine glasses! We’ve clarified some of these differences in our guide.
+
+### Beer Pint Glasses
+
+The following glasses can be used for many different types of beers, ales, and lagers:
+
+- American Pint — The classic 16-ounce “conical” glass is appropriate for most American styles of beers and can be found at most craft breweries around the U.S.
+- Irish Imperial Pint — Popular overseas, this smooth beer glass tapers out to maximize a foamy head.
+- Nonic Pint — The little dimple toward the top brings this pint to a full 20 ounces.
+- Beer Mug — A traditional beer mug comes in many shapes and sizes but is typically found to be about a pint in size.
+- Beer Stein — While they’re not technically glassware and they’ve fallen a bit out of fashion, German beer steins are decorative, beautiful, and fun.
+- Dimple Mug — Dimple mugs are designed so that one can see quickly how much beer they’ve drunk or poured in one evening.
+ 
+### Craft Beer Glasses
+
+These beer glasses are designed to enhance the taste of specific types of beer:
+
+- Pilsner Glass — The tall, sleek pilsner glass is meant for blond ales, pale lagers, bocks, and, naturally, pilsners.
+- Weizen Glass — The slight curvature gives more room for the head and aroma of wheat beers.
+- Snifter — Traditionally a glass meant for brandy (see the cocktail section), this glass has also become popular for sampling more aromatic IPAs and wheat wines.
+- Tulip — As with the snifter, hoppy, malty, and aromatic beers do well in this big glass, but the flared edge brings ale to the tip of the tongue. It’s often specifically used for Belgian ales.
+- Thistle — For heavy Scotch ales, this glass is meant to resemble the national flower of Scotland.
+- Goblet — Heavier, malty beers with complex aromas would do well in these wide, decorative bowls.
+- Stange — Light, delicate beers like lambics and bocks do well in this Champagne flute of beer glasses.
+- Willi Becher — While it’s lesser-known in the states, this glass is a favorite in Germany for German beers.
+- IPA Glass — A fairly recent invention, the IPA glass, co-developed by breweries Dogfish Head and Sierra Nevada, is meant to harness aromas and has ridges to help aerate the IPA from the inside.
+- Stout Glass — Like the IPA glass, the stout glass is a recent invention, this one meant to capture a huge head and show off the malty aromas of a good stout.
+- Beer Boot — “Das Boot” has a funny history and is essential for Oktoberfest fans.
+- Yard Glass — Size doesn’t matter, right? Well, beer fans might disagree when they reach for a full yard of ale.
