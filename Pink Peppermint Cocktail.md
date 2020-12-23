@@ -21,3 +21,14 @@
 5. If they’re are bits of candy cane remaining, strain with a fine mesh strainer and return to the jar.  
 
 Keep vodka sealed & refrigerated. Should last up to a month.
+
+## Vanilla Syrup
+
+VANILLA BEAN SYRUP
+
+1/2 cup sugar
+1/3 cup water
+1 vanilla bean, seeds scraped
+1/2 teaspoon pure vanilla extract
+
+Combine the sugar, water, scraped vanilla beans, whole bean and extract in a small saucepan over medium heat. Whisk constantly until the sugar dissolves and the mixture is bubbling. Reduce the heat to low and cook for 1 to 2 minutes. Let cool completely before storing in a jar. I usually don’t remove the vanilla pod and just leave it in for flavor. You can remove it if you wish!
