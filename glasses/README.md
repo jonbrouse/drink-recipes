@@ -77,12 +77,12 @@ The big difference between red and white wine glasses is that red wine glasses a
 
 Red wines are served at room temperature, and white wines are served chilled. This means there are fairly significant differences in the design of red vs. white wine glasses, as white wine needs to come into contact with some, but not too much, room-temperature air. The different wine glasses for white wines are typically made of thicker glass than their red counterparts, in part to help ensure that the temperature stays cold.
 
-• __Chardonnay__ - Spicier, nuttier white wines need more surface area to bloom. The straighter glass sends the wine to the sides of the tongue.
-• __Viognier__ - The viognier is considered somewhat of a standard for white wine glasses, with the U-shape enhancing pretty much everything light and fruity and keeping the beverage cold.
-• __Tulip__ - The flute and tulip are special glasses meant for sparkling wines. The tulip is generally preferred for wines that have been fermented in the bottle, as, again, more surface area gives more room for oxygen and exciting aromas.
-• __Flute__ - The instantly recognizable flute is perfect for bubbling wines like Astis, Champagne, and more.
-• __Vintage__ - For those who prefer a bit more of a retro-style look while they’re drinking sparkling wine, the vintage, or coupe, has made a comeback. The coupe is very versatile, as it’s also often used for chic cocktails. (See the cocktail section.)
-• __Hock__ - At one time, these small crystal wine cups were hugely popular and preferred for sweet German white wines.
+- __Chardonnay__ - Spicier, nuttier white wines need more surface area to bloom. The straighter glass sends the wine to the sides of the tongue.
+- __Viognier__ - The viognier is considered somewhat of a standard for white wine glasses, with the U-shape enhancing pretty much everything light and fruity and keeping the beverage cold.
+- __Tulip__ - The flute and tulip are special glasses meant for sparkling wines. The tulip is generally preferred for wines that have been fermented in the bottle, as, again, more surface area gives more room for oxygen and exciting aromas.
+- __Flute__ - The instantly recognizable flute is perfect for bubbling wines like Astis, Champagne, and more.
+- __Vintage__ - For those who prefer a bit more of a retro-style look while they’re drinking sparkling wine, the vintage, or coupe, has made a comeback. The coupe is very versatile, as it’s also often used for chic cocktails. (See the cocktail section.)
+- __Hock__ - At one time, these small crystal wine cups were hugely popular and preferred for sweet German white wines.
  
 ### Pink Wine Glasses
 
