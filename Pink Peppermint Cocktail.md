@@ -1,3 +1,8 @@
+---
+Season: Winter
+Temperature: cold, warm
+---
+
 # Pink Peppermint Cocktail 
 
 1. Prepare the candy cane vodka 30 minutes before.
