@@ -11,9 +11,12 @@ __Sources__
 |  Size  |  Text  |
 |:------:|:------:|
 | 3/4    | ¾      |
+| 2/3    | ⅔      |
 | 1/2    | ½      |
 | 1/3    | ⅓      |
 | 1/4    | ¼      |
+
+[Source](https://en.wikipedia.org/wiki/Number_Forms)
 
 ## Conversions
 
