@@ -14,3 +14,7 @@ __Sources__
 | 1/2    | ½      |
 | 1/3    | ⅓      |
 | 1/4    | ¼      |
+
+## Conversions
+
+![](conversions.png)
