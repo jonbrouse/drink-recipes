@@ -2,6 +2,12 @@
 
 ## Inventory
 
+| Booze           | Fruits | Mixers          |
+|-----------------|--------|-----------------|
+| Bulliet Bourbon | Limes  | Club Soda       |
+|                 | Lemons | Pineapple Juice |
+|                 | Mint   | Tonic Water     |
+
 ### Booze
 - [ ] Bulliet Whiskey
 
