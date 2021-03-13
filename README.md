@@ -2,28 +2,23 @@
 
 ## Inventory
 
-| Booze           | Fruits | Mixers          |
-|-----------------|--------|-----------------|
-| - [ ] Bulliet Bourbon | Limes  | Club Soda       |
-|                 | Lemons | Pineapple Juice |
-|                 | Mint   | Tonic Water     |
-
 ### Booze
+- [ ] Bluecoat Gin
 - [ ] Bulliet Whiskey
 
 ### Fruits
+- [ ] Cherries
 - [ ] Limes
 - [ ] Lemons
 - [ ] Mint
 - [ ] Orange
-- [ ] Cherries
 
 ### Mixers
+- [ ] 7 Up
 - [ ] Club Soda
+- [ ] Orange Juice
 - [ ] Pineapple Juice
 - [ ] Tonic Water
-- [ ] Orange Juice
-- [ ] 7 Up
 
 ## Reference 
 
