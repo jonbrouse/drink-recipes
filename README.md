@@ -1,4 +1,19 @@
-# Drinks README
+# Drink Recipes
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+__Table of Contents__
+
+- [Inventory](#inventory)
+  - [Booze](#booze)
+  - [Fruits](#fruits)
+  - [Mixers](#mixers)
+- [Reference](#reference)
+  - [Sources](#sources)
+  - [Sizes in Text](#sizes-in-text)
+  - [Conversions](#conversions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Inventory
 
