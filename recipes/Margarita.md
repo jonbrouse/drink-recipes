@@ -6,7 +6,7 @@ House Favorite: True
 
 # Margarita
 
-1. Salt rim of Markgarita glass (or pint glass)
+1. Salt rim of Margarita glass (or pint glass)
 2. Combine in shaker:
 	- 3 (1½) oz Tequila
 	- 2 (1) Simple Syrup
