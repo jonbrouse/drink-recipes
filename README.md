@@ -4,7 +4,7 @@
 
 | Booze           | Fruits | Mixers          |
 |-----------------|--------|-----------------|
-| Bulliet Bourbon | Limes  | Club Soda       |
+| - [ ] Bulliet Bourbon | Limes  | Club Soda       |
 |                 | Lemons | Pineapple Juice |
 |                 | Mint   | Tonic Water     |
 
