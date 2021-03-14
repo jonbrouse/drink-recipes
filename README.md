@@ -31,7 +31,7 @@ __Tag Options__
 
 | Tag                | Options                                                                                       |
 |--------------------|-----------------------------------------------------------------------------------------------|
-| __Glass__          | _See glasses README](https://github.com/jonbrouse/drink-recipes/tree/main/glasses)_           |
+| __Glass__          | _See [glasses README](https://github.com/jonbrouse/drink-recipes/tree/main/glasses)_           |
 | __House Favorite__ | True                                                                                          |
 | __Seasons__        | spring<br>summer<br>winter<br>fall                                                            |
 | __Temperature__    | cold<br>hot                                                                                   |
