@@ -4,6 +4,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 __Table of Contents__
 
+- [Recipe Tags](#recipe-tags)
 - [Inventory](#inventory)
   - [Booze](#booze)
   - [Fruits](#fruits)
@@ -14,6 +15,27 @@ __Table of Contents__
   - [Conversions](#conversions)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Recipe Tags
+
+Tags group drinks into categories such as _temperature_ or _seasons_. The tags are added to the top of every recipe files. Below is an example:
+
+```
+---
+Seasons: fall, winter
+Temperature: warm
+---
+```
+
+__Tag Options__
+
+| Tag                | Options                            |
+|--------------------|------------------------------------|
+| __Glass__          | _various_                         |
+| __House Favorite__ | True                               |
+| __Seasons__        | spring<br>summer<br>winter<br>fall |
+| __Temperature__    | cold<br>hot                        |
+
 
 ## Inventory
 
