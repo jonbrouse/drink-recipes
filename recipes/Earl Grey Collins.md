@@ -1,5 +1,5 @@
 ---
-Glass: tom collins
+Glass:  [collins glass](https://github.com/jonbrouse/drink-recipes/tree/main/glasses#collins-glass)
 Seasons: spring
 Temperature: cold
 ---

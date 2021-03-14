@@ -29,12 +29,12 @@ Temperature: warm
 
 __Tag Options__
 
-| Tag                | Options                            |
-|--------------------|------------------------------------|
-| __Glass__          | _various_                         |
-| __House Favorite__ | True                               |
-| __Seasons__        | spring<br>summer<br>winter<br>fall |
-| __Temperature__    | cold<br>hot                        |
+| Tag                | Options                                                                                       |
+|--------------------|-----------------------------------------------------------------------------------------------|
+| __Glass__          | _See glasses README](https://github.com/jonbrouse/drink-recipes/tree/main/glasses)_           |
+| __House Favorite__ | True                                                                                          |
+| __Seasons__        | spring<br>summer<br>winter<br>fall                                                            |
+| __Temperature__    | cold<br>hot                                                                                   |
 
 
 ## Inventory
