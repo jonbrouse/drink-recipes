@@ -18,7 +18,7 @@ __Table of Contents__
 
 ## Recipe Tags
 
-Tags group drinks into categories such as _temperature_ or _seasons_. Each recipe defines their own tags at the top of the recipe file. Below is an example:
+Tags group drinks into categories such as _temperature_ or _seasons_. Tags are defined at the top of each recipe file. Below is an example:
 
 ```
 ---
