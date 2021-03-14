@@ -1,8 +1,8 @@
 ---
-Glass:  [collins glass](https://github.com/jonbrouse/drink-recipes/tree/main/glasses#collins-glass)
-Seasons: spring
+Glass:  collins glass
 Temperature: cold
 ---
+
 # Earl Grey Collins
 
 1. Add the following to a shaker and shake:
