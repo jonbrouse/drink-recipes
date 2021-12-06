@@ -1,0 +1,26 @@
+Fairytale of New York
+Adapted from Dave Mitton of The Harbord Room in Toronto, via Imbibe Magazine
+
+This is essentially a winter spiced old-fashioned, a really wonderful variation on it for this time of year. The mulled simple syrup will make you home smell heavenly. I fudged the ingredients a little, using a whole apple because I didn’t have a half pear, using orange bitters instead of walnut ones, and ground cloves (a few pinches) instead of whole. Nobody was the wiser.
+
+Winter Warmth Syrup
+1 1/2 cups water
+1 cup raw, demerara or turbinado sugar (granulated will do just fine if you do not have them)
+1/2 apple, peeled, cored, and diced
+1/2 pear, peeled, cored, and diced
+12 walnut halves
+3 cinnamon sticks, broken up
+6 whole cloves
+1 whole nutmeg
+
+For Each Cocktail
+1 piece of orange peel (about 1 by 2 inches)
+3/4 ounce Winter Warmth Syrup (recipe above)
+2 dashes of bitters (Fee Brothers black walnut bitters are recommended, I used orange bitters)
+2 ounces bourbon, rye or Canadian whisky
+
+Make the winter warmth syrup: Combine all ingredients in a saucepan over medium heat. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes. Remove from the heat and cool. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks. Makes about 2 cups.
+
+Make a drink: Place the orange peel, syrup and bitters in a low glass and muddle. Pour in whiskey, add a large ice cube and don’t forget to share.
+
+Make a carafe: We brought 2 4-cup carafes of this to a party, using all of the syrup and about 5 1/2 cups bourbon. We tossed a few orange peels into each jar. Don’t forget to remind friends to pour it over ice (we forgot), so they are not asleep before, you know, Santa comes down the chimney
