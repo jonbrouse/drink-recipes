@@ -31,9 +31,10 @@ __Tag Options__
 
 | Tag                | Options                                                                                       |
 |--------------------|-----------------------------------------------------------------------------------------------|
-| __Glass__          | _See [glasses](https://github.com/jonbrouse/drink-recipes/blob/main/glasses/README.md)_           |
+| __Glass__          | _See [glasses](https://github.com/jonbrouse/drink-recipes/blob/main/glasses/README.md)_       |
 | __House Favorite__ | True                                                                                          |
 | __Seasons__        | spring<br>summer<br>winter<br>fall                                                            |
+| __Serves__         | 1 shot<br>1 serving<br>batch (#)                                                              |
 | __Temperature__    | cold<br>hot                                                                                   |
 
 
