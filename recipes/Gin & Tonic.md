@@ -1,3 +1,10 @@
+---
+Glass: High ball
+Seasons: spring, summer
+Serves: 1 drink
+Temperature: cold
+---
+
 ## Gin & Tonic
 
 1. Fill cocktail glass with ice

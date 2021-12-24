@@ -1,4 +1,11 @@
-# French 75
+---
+Glass: Coupe
+Seasons: all
+Serves: 1 drink
+Temperature: cold
+---
+
+## French 75
 
 1. Chill coupe glass
 2. Combine in shaker:

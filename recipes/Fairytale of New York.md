@@ -1,7 +1,7 @@
 ---
 Glass:
 Seasons: winter
-Serves: 1 drink<br>batch
+Serves: 1 drink, batch
 Temperature: cold
 ---
 
