@@ -1,9 +1,11 @@
 ---
 Glass:  collins glass
+Seasons: Spring, Summer
+Serves: 1 drink
 Temperature: cold
 ---
 
-# Earl Grey Collins
+## Earl Grey Collins
 
 1. Add the following to a shaker and shake:
 	- ⅔ oz (50ml) gin

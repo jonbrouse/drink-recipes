@@ -1,8 +1,11 @@
 ---
+Glass: Pint Glass
 Seasons: fall, winter
+Serves: 1 drink
 Temperature: cold
 ---
-# Cranberry Orange Whiskey Cocktail
+
+## Cranberry Orange Whiskey Cocktail
 
 1. Add the following to a shaker and shake:
 	- 1 oz unsweetened cranberry juice

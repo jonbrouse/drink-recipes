@@ -1,4 +1,10 @@
-# Aperol Bourbon Fizz
+---
+Glass: High ball
+Seasons: all
+Temperature: cold
+---
+
+## Aperol Bourbon Fizz
 
 1. Fill high ball wih ice
 2. Add the following to the glass:

@@ -1,4 +1,4 @@
-# Gin & Tonic
+## Gin & Tonic
 
 1. Fill cocktail glass with ice
 2. Combine in cocktail glass:

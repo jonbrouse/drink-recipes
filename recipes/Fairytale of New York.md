@@ -1,26 +1,41 @@
-Fairytale of New York
-Adapted from Dave Mitton of The Harbord Room in Toronto, via Imbibe Magazine
+---
+Glass:
+Seasons: winter
+Serves: 1 drink<br>batch
+Temperature: cold
+---
 
-This is essentially a winter spiced old-fashioned, a really wonderful variation on it for this time of year. The mulled simple syrup will make you home smell heavenly. I fudged the ingredients a little, using a whole apple because I didn’t have a half pear, using orange bitters instead of walnut ones, and ground cloves (a few pinches) instead of whole. Nobody was the wiser.
+## Fairytale of New York
 
-Winter Warmth Syrup
-1 1/2 cups water
-1 cup raw, demerara or turbinado sugar (granulated will do just fine if you do not have them)
-1/2 apple, peeled, cored, and diced
-1/2 pear, peeled, cored, and diced
-12 walnut halves
-3 cinnamon sticks, broken up
-6 whole cloves
-1 whole nutmeg
+__Winter Warmth Syrup__
 
-For Each Cocktail
-1 piece of orange peel (about 1 by 2 inches)
-3/4 ounce Winter Warmth Syrup (recipe above)
-2 dashes of bitters (Fee Brothers black walnut bitters are recommended, I used orange bitters)
-2 ounces bourbon, rye or Canadian whisky
+1. Combine all ingredients in a saucepan over medium heat. 
+	- 1½ cups water
+	- 1 cup raw, demerara or turbinado sugar (granulated will do just fine if you do not have them)
+	- ½ apple, peeled, cored, and diced
+	- ½ pear, peeled, cored, and diced
+	- 12 walnut halves
+	- 3 cinnamon sticks, broken up
+	- 6 whole cloves
+	- 1 whole nutmeg
+2. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes.
+3. Remove from the heat and cool.
+4. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks. Makes about 2 cups.
 
-Make the winter warmth syrup: Combine all ingredients in a saucepan over medium heat. Bring to a simmer, stirring until the sugar dissolves, and simmer for 15 to 20 minutes. Remove from the heat and cool. Strain into a clean glass bottle, cover and refrigerate for up to 2 weeks. Makes about 2 cups.
+__Cocktail__
 
-Make a drink: Place the orange peel, syrup and bitters in a low glass and muddle. Pour in whiskey, add a large ice cube and don’t forget to share.
+1. Combine the following into a low glass and muddle:
+	- 1 piece of orange peel (about 1 by 2 inches)
+	- ¾ oz Winter Warmth Syrup
+	- 2 dashes of bitters (Fee Brothers black walnut bitters are recommended or orange bitters)
+2. Combine the following and stir:
+	- 2 oz bourbon, rye or Canadian whisky
+	- A large ice cube
 
-Make a carafe: We brought 2 4-cup carafes of this to a party, using all of the syrup and about 5 1/2 cups bourbon. We tossed a few orange peels into each jar. Don’t forget to remind friends to pour it over ice (we forgot), so they are not asleep before, you know, Santa comes down the chimney
+__Carafe__
+
+- Two 4-cup carafes of this to a party
+- All of the syrup 
+- ~5½ cups bourbon. 
+- A few orange peels into each jar.
+- Pour it over ice 
