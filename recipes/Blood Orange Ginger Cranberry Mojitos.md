@@ -5,7 +5,7 @@ Serves: batch (4)
 Temperature: cold
 ---
 
-### Blood Orange Ginger Cranberry Mojito’s
+## Blood Orange Ginger Cranberry Mojito’s
 
 __Ginger Simple Syrup__
 
