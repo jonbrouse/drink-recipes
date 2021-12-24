@@ -1,4 +1,4 @@
-# Tom Collins
+## Tom Collins
 
 1. Fill cocktail glass with ice
 2. Add the following to the glass:

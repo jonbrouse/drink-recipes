@@ -1,4 +1,4 @@
-# The White Lady cocktail
+## The White Lady cocktail
 
 1. Add the following to a shaker and shake:
 	- Ice

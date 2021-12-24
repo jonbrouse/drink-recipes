@@ -1,4 +1,4 @@
-# The Queen's Gambit
+## The Queen's Gambit
 
 Inspired by the TV series & book, the Queen's Gambit is a take on the Gibson that includes a Parisian influence.
 

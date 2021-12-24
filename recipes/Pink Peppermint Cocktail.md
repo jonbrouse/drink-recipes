@@ -3,7 +3,7 @@ Season: Winter
 Temperature: cold
 ---
 
-# Pink Peppermint Cocktail 
+## Pink Peppermint Cocktail 
 
 1. Prepare the candy cane vodka 30 minutes before.
 2. Rim a glass with a drop of water and dip it in either sparkling sugar or crushed candy canes. 

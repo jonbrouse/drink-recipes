@@ -4,7 +4,7 @@ Temperature: cold
 House Favorite: True
 ---
 
-# Margarita
+## Margarita
 
 1. Salt rim of Margarita glass (or pint glass)
 2. Combine in shaker:

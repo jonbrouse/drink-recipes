@@ -1,4 +1,4 @@
-# Hot Ginger Toddy
+## Hot Ginger Toddy
 
 1. Gently heat the following in a pan:
 	- Glassful of ginger beer

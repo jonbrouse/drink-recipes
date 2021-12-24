@@ -1,4 +1,4 @@
-# Mint Julep
+## Mint Julep
 
 1. Add the following to a pint glass:
 	- ¼ oz Simple Syrup

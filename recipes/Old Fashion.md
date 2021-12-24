@@ -1,4 +1,4 @@
-#  Old Fashion
+##  Old Fashion
 
 1. Combine the following into an old fashion glass:
 	- ⅓ Simple Syrup

@@ -1,4 +1,4 @@
-#  Strawberry Daiquiri
+##  Strawberry Daiquiri
 
 1. Add the following to a shaker:
 	- 2 Large Strawberries

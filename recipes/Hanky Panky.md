@@ -1,4 +1,4 @@
-# Hanky Panky
+## Hanky Panky
 
 1. Combine the following in a mixing glass and filled with ice
   - 1 1/2 ounces gin

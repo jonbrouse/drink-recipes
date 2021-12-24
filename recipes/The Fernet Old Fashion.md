@@ -1,4 +1,4 @@
-# The Fernet Old Fashioned
+## The Fernet Old Fashioned
 
 1. Add the following to a shaker:
 	- Two "coins" of fresh ginger

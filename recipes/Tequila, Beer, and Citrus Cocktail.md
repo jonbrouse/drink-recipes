@@ -1,18 +1,12 @@
-MAKES 1
-¾
-oz. fresh grapefruit juice
-¾
-oz. fresh lime juice
-½
-oz. agave nectar
-2
-Tbsp. red pepper jelly
-1½
-oz. tequila blanco
-1
-12-oz. chilled Mexican beer
-Lime wedge (for serving)
-Preparation
+## Tequila, Beer, and Citrus Cocktail
 
-Step 1
-Combine grapefruit juice, lime juice, agave, and jelly in a cocktail shaker filled with ice and shake until incorporated, 15–20 seconds. Add tequila and shake 10 seconds longer. Fill a tall glass to the top with ice. Pour in beer just to fill the glass halfway. Double-strain grapefruit mixture into glass; garnish with lime wedge
+1. Combine the following in a shaker and shake:
+	- ¾ oz. fresh grapefruit juice
+	- ¾ oz. fresh lime juice
+	- ½ oz. agave nectar
+	- 2 Tbsp. red pepper jelly
+2. Add in the following and shake:
+	- 1½ oz. tequila blanco
+3. Fill a tall glass to the top with ice.
+	- Fill glass halfway with chilled Mexican beer 
+4. Double-strain grapefruit mixture into glass; garnish with lime wedge

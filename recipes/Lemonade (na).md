@@ -1,4 +1,4 @@
-# Lemonaide (non-alcoholic)
+## Lemonaide (non-alcoholic)
 
 1. Combine in a shaker:
 	- 1 oz Lemon Juice

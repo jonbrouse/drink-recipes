@@ -1,6 +1,4 @@
-# Strawberry Basil Spritz
-
-## Ingredients
+## Strawberry Basil Spritz
 
 __Base__
 
