@@ -1,3 +1,9 @@
+---
+House Favorite: True
+Seasons: fall, winter
+Temperature: warm
+---
+
 ## Raspberry Hot Chocolate
 
 1. Make hot chocolate
