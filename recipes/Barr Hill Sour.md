@@ -1,9 +1,9 @@
 ## Barr Hill Sour
 
 1. Add the following to a shaker (without ice):
-	- 1 Gin
-	- 1 Amarao of your choice
-	- 1 Lemon juice
+	- 1 oz Gin
+	- 1 oz Amarao of your choice
+	- 1 oz lemon juice
 	- Egg white
 2. Shake for 30 seconds
 3. Add ice and shake for 15 seconds
