@@ -8,5 +8,5 @@ Inspired by the TV series & book, the Queen's Gambit is a take on the Gibson tha
 	- ½ oz Simple Syrup
 	- ¼ oz Lime Juice
 	- ¼ oz Green Chartreuse
-        - ⅛ oz St Germain
+	- ⅛ oz St Germain
 3. Shake and pour in chilled coupe glass
